@@ -1,0 +1,1 @@
+# Google-static-page
